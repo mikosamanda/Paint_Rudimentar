@@ -1,1 +1,1 @@
-# js-pincelretangular
+# js-paintrudimentar
