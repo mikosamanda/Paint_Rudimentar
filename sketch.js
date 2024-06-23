@@ -2,8 +2,8 @@
 let cor;
 
 function setup() {
-  createCanvas(500, 500);
- background(random(0,255),random(0,255),random(0,255));
+  createCanvas(1000, 600);
+  background(random(0,255),random(0,255),random(0,255));
   cor = color (random(0,255),random(0,255),random(0,255))
 }
 
